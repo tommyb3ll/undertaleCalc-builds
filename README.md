@@ -1,6 +1,16 @@
 # SoulCE: Undertale for TI-84 Plus CE
 
-An unofficial, in-development calculator port of *Undertale*. This build covers the opening and Ruins through Toriel's house, basement encounter, and exit fade. It has passed the project's CEmu checks; this particular package has not yet been verified on a physical calculator. Gameplay, timing, audio, and the scenes after the exit are still being worked on.
+An unofficial calculator port of *Undertale*. The current Ruins demo is a near one-to-one recreation of the original's rooms, interactions, dialogue, and battles, with a few bugs and timing differences still being fixed. It runs on a physical TI-84 Plus CE and has also passed the project's CEmu checks. The full game beyond the Ruins is still in development.
+
+## What's in this build
+
+- The opening sequence, name entry and special name responses, Flowey's first encounter, and Toriel's introduction.
+- The Ruins overworld through Toriel's house: guided walks, phone calls, save points, signs, candy, switches, spikes, rocks, hidden switches, pitfall rooms, and room transitions.
+- Ruins encounters and battles, including the Dummy, Napstablook, and Toriel, with **FIGHT**, **ACT**, **ITEM**, and **MERCY** menus, enemy attack patterns, and tested spare, kill, flee, and player-death outcomes.
+- Toriel's house scenes, bedroom sequence, corrected stair hall, basement route, first-play basement dialogue, Toriel encounter, and the Ruins exit sequence.
+- The overworld menu, inventory and equipment, save data, route flags, and a title-screen developer menu for jumping to rooms and battles.
+
+The demo currently ends after the Ruins exit fade. Some paths, presentation details, and later-playthrough dialogue variations still need work.
 
 ## Download and install
 
