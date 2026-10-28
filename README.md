@@ -4,7 +4,7 @@ An unofficial, in-development calculator port of *Undertale*. This build covers 
 
 ## Download and install
 
-Download [SoulCE-Ruins-dev-2026-10-28.zip](SoulCE-Ruins-dev-2026-10-28.zip). Extract it and transfer **SOULCE.8xp** and **all 22 SOULDAT*.8xv files** to your TI-84 Plus CE. Keep the program and data appvars in Archive. You also need CE C libraries and an assembly-capable launcher appropriate for your calculator OS; those third-party dependencies are not included here.
+Download [SoulCE-Ruins-dev-2026-10-28.zip](SoulCE-Ruins-dev-2026-10-28.zip?raw=1). Extract it and transfer **`SOULCE.8xp`** and **all 22 `SOULDAT*.8xv` files** to your TI-84 Plus CE. Keep the program and data appvars in Archive. You also need CE C libraries and an assembly-capable launcher appropriate for your calculator OS; those third-party dependencies are not included here.
 
 Back up any save you want to keep, then remove older SOULDAT appvars and SOULSAVE before transferring this build. Do not mix data files from different versions. The ZIP contains a file manifest and more detailed installation notes.
 
